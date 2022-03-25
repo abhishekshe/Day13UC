@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.AssemblyInfo.cs
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\uc13\uc13\bin\Debug\net6.0\uc13.exe
+C:\Users\dell\source\repos\uc13\uc13\bin\Debug\net6.0\uc13.deps.json
+C:\Users\dell\source\repos\uc13\uc13\bin\Debug\net6.0\uc13.runtimeconfig.json
+C:\Users\dell\source\repos\uc13\uc13\bin\Debug\net6.0\uc13.dll
+C:\Users\dell\source\repos\uc13\uc13\bin\Debug\net6.0\uc13.pdb
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.dll
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\refint\uc13.dll
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.pdb
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\uc13.genruntimeconfig.cache
+C:\Users\dell\source\repos\uc13\uc13\obj\Debug\net6.0\ref\uc13.dll
