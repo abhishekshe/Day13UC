@@ -1,22 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace findMaximum
 
 {
-    public class MaximumCheck
+    public class MaximumDoubleCheck
     {
-        public static int MaxIntNumber(int first, int second, int third)
+        public static double MaxFloatNumber(double first, double second, double third)
         {
             if (first.CompareTo(second) > 0 && first.CompareTo(third) > 0)
             {
                 return first;
             }
             if (second.CompareTo(second) > 0 && second.CompareTo(third) > 0)
-           
+
             {
                 return second;
             }

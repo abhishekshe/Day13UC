@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "uc13/1.0.0": {
+      "ucDay13Doble/1.0.0": {
         "runtime": {
-          "uc13.dll": {}
+          "ucDay13Doble.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "uc13/1.0.0": {
+    "ucDay13Doble/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
