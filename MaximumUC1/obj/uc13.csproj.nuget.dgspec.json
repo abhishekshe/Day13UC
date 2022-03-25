@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\uc13\\uc13\\uc13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj": {
+    "C:\\Users\\dell\\source\\repos\\uc13\\uc13\\uc13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj",
-        "projectName": "shild",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\uc13\\uc13\\uc13.csproj",
+        "projectName": "uc13",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\uc13\\uc13\\uc13.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\shild\\shild\\obj\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\uc13\\uc13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
